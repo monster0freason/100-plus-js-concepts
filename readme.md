@@ -11,7 +11,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 ## 🏗 Categories and Topics
 
 ### **Core JavaScript**
-1. Execution Context and Call Stack
+1. [Execution Context](https://www.youtube.com/watch?v=Q2sFmqvpBe0) and [Call Stack](https://www.youtube.com/watch?v=iLWTnMzWtj4)
 2. Hoisting (variables and functions)
 3. Scope (Global, Function, Block)
 4. Closures
