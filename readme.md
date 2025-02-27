@@ -11,9 +11,9 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 ## 🏗 Categories and Topics
 
 ### **Core JavaScript**
-1. [Execution Context](https://www.youtube.com/watch?v=Q2sFmqvpBe0) and [Call Stack](https://www.youtube.com/watch?v=iLWTnMzWtj4)
-2. Hoisting (variables and functions)
-3. Scope (Global, Function, Block)
+1. [Execution Context](https://www.youtube.com/watch?v=ZvbzSrg0afE) and [Call Stack](https://www.youtube.com/watch?v=iLWTnMzWtj4)
+2. [Hoisting (variables and functions)](https://www.youtube.com/watch?v=Fnlnw8uY6jo)
+3. [The Scope Chain, Scope, Lexical Environment](https://www.youtube.com/watch?v=uH-tVP8MUs8) 
 4. Closures
 5. `this` Keyword and Binding Rules
 6. Prototypal Inheritance
@@ -69,7 +69,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 50. `ArrayBuffer` and Typed Arrays
 
 ### **ES6+ Features**
-51. `let`, `const`, and Temporal Dead Zone (TDZ)
+51. [`let`, `const`, and Temporal Dead Zone (TDZ)](https://www.youtube.com/watch?v=BNC6slYCj50) and [Block Scope & Shadowing ](https://www.youtube.com/watch?v=BNC6slYCj50)
 52. Template Literals (Interpolation, Tagged Templates)
 53. Destructuring Assignment
 54. Modules (`import/export`)
