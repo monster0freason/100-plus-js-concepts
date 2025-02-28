@@ -14,7 +14,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 1. [Execution Context](https://www.youtube.com/watch?v=ZvbzSrg0afE) and [Call Stack](https://www.youtube.com/watch?v=iLWTnMzWtj4)
 2. [Hoisting (variables and functions)](https://www.youtube.com/watch?v=Fnlnw8uY6jo)
 3. [The Scope Chain, Scope, Lexical Environment](https://www.youtube.com/watch?v=uH-tVP8MUs8) 
-4. Closures
+4. [Closures](https://www.youtube.com/watch?v=qikxEIxsXco&t=215s) 
 5. `this` Keyword and Binding Rules
 6. Prototypal Inheritance
 7. The `prototype` Property
@@ -23,17 +23,17 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 10. Strict Mode (`"use strict"`)
 11. Primitive vs. Reference Types
 12. Type Coercion and Truthy/Falsy Values
-13. Event Loop and Concurrency Model
-14. Microtasks (Promises) vs. Macrotasks (`setTimeout`)
+13. [Callbacks, Event Listeners](https://www.youtube.com/watch?v=btj35dh3_U8) and [Event Loop, Browser APIs, Concurrency Model(asynchronous JavaScript), Web APIs, Microtasks(Promises), Macrotasks(`setTimeout`)](https://www.youtube.com/watch?v=8zKuNo4ay8E)
+14. [JS Engine](https://www.youtube.com/watch?v=2WJL19wDH68) 
 15. Memory Management and Garbage Collection
 16. Error Handling (`try/catch/finally`, `throw`)
 17. `eval()` and Its Implications
 18. `typeof` vs `instanceof`
 19. `Object.create()`, `Object.assign()`
-20. Iterables and Array-Like Objects
+20. Iterables and Array-Like Objects (map, filter, reduce)
 
 ### **Functions**
-21. First-Class Functions
+21. [First-Class Functions and Anonymous Functions](https://www.youtube.com/watch?v=SHINoHxvTso) 
 22. Higher-Order Functions
 23. Callback Pattern
 24. Arrow Functions (Lexical `this`)
@@ -53,7 +53,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 36. Error Handling in Async Code
 37. Event Emitters/Observables (Pub-Sub Pattern)
 38. Web Workers
-39. `setTimeout`, `setInterval`, and `requestAnimationFrame`
+39. [`setTimeout`](https://www.youtube.com/watch?v=eBTBG4nda2A) , `setInterval`, and `requestAnimationFrame`
 40. `AbortController` for Cancelling Async Tasks
 
 ### **Objects and Data Structures**
@@ -69,7 +69,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 50. `ArrayBuffer` and Typed Arrays
 
 ### **ES6+ Features**
-51. [`let`, `const`, and Temporal Dead Zone (TDZ)](https://www.youtube.com/watch?v=BNC6slYCj50) and [Block Scope & Shadowing ](https://www.youtube.com/watch?v=BNC6slYCj50)
+51. [`let`, `const`, and Temporal Dead Zone (TDZ)](https://www.youtube.com/watch?v=BNC6slYCj50) and [Block Scope & Shadowing ](https://www.youtube.com/watch?v=lW_erSjyMeM)
 52. Template Literals (Interpolation, Tagged Templates)
 53. Destructuring Assignment
 54. Modules (`import/export`)
