@@ -16,25 +16,25 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 3. [The Scope Chain, Scope, Lexical Environment](https://www.youtube.com/watch?v=uH-tVP8MUs8) 
 4. [Closures](https://www.youtube.com/watch?v=qikxEIxsXco&t=215s) 
 5. `this` Keyword and Binding Rules
-6. Prototypal Inheritance
-7. The `prototype` Property
+6. [The `prototype` Property, Prototypal Inheritance, Prototype Chain](https://www.youtube.com/watch?v=wstwjQ1yqWQ&t=166s)
+7. Object-Oriented Programming (OOP) in JavaScript
 8. `new` Keyword and Constructor Functions
-9. IIFE (Immediately Invoked Function Expressions)
-10. Strict Mode (`"use strict"`)
+9. [IIFE (Immediately Invoked Function Expressions)](https://www.youtube.com/watch?v=I5EntfMeIIQ)
+10. [Strict Mode (`"use strict"`)](https://www.youtube.com/watch?v=G9QTBS2x8U4)
 11. Primitive vs. Reference Types
 12. Type Coercion and Truthy/Falsy Values
 13. [Callbacks, Event Listeners](https://www.youtube.com/watch?v=btj35dh3_U8) and [Event Loop, Browser APIs, Concurrency Model(asynchronous JavaScript), Web APIs, Microtasks(Promises), Macrotasks(`setTimeout`)](https://www.youtube.com/watch?v=8zKuNo4ay8E)
-14. [JS Engine](https://www.youtube.com/watch?v=2WJL19wDH68) 
+14. [JS Engine Architecture, JavaScript Runtime Environment, JIT compilation, V8(Ignition, Turbofan, Orinoco)](https://www.youtube.com/watch?v=2WJL19wDH68) 
 15. Memory Management and Garbage Collection
 16. Error Handling (`try/catch/finally`, `throw`)
 17. `eval()` and Its Implications
 18. `typeof` vs `instanceof`
 19. `Object.create()`, `Object.assign()`
-20. Iterables and Array-Like Objects (map, filter, reduce)
+20. Iterables and [Array-Like Objects (map, filter, reduce)](https://www.youtube.com/watch?v=zdp0zrpKzIE)
 
 ### **Functions**
 21. [First-Class Functions and Anonymous Functions](https://www.youtube.com/watch?v=SHINoHxvTso) 
-22. Higher-Order Functions
+22. [Higher-Order Functions](https://www.youtube.com/watch?v=SHINoHxvTso)
 23. Callback Pattern
 24. Arrow Functions (Lexical `this`)
 25. Default Parameters
@@ -45,14 +45,14 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 30. Memoization
 
 ### **Asynchronous Programming**
-31. Callback Hell (Pyramid of Doom)
-32. Promises (States: Pending, Fulfilled, Rejected)
-33. Chaining Promises (`.then()`, `.catch()`)
-34. `Promise.all()`, `Promise.race()`, `Promise.allSettled()`
+31. [Callback Hell(Pyramid of Doom), Inversion of Control](https://www.youtube.com/watch?v=yEKtJGha3yM)
+32. [Promises (States: Pending, Fulfilled, Rejected)](https://www.youtube.com/watch?v=ap-6PPAuK1Y)
+33. [Creating a Promise(`resolve()`, `reject()`), Chaining Promises(`.then()`, `.catch()`), Error Handling in Promises](https://www.youtube.com/watch?v=U74BJcr8NeQ)
+34. [Promise APIs (`Promise.all()`, `Promise.race()`, `Promise.allSettled()`, `Promise.any()`)](https://www.youtube.com/watch?v=DlTVt1rZjIo)
 35. `async/await` Syntax
 36. Error Handling in Async Code
 37. Event Emitters/Observables (Pub-Sub Pattern)
-38. Web Workers
+38. [Web Workers](https://www.youtube.com/watch?v=Gcp7triXFjg)
 39. [`setTimeout`](https://www.youtube.com/watch?v=eBTBG4nda2A) , `setInterval`, and `requestAnimationFrame`
 40. `AbortController` for Cancelling Async Tasks
 
@@ -72,7 +72,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 51. [`let`, `const`, and Temporal Dead Zone (TDZ)](https://www.youtube.com/watch?v=BNC6slYCj50) and [Block Scope & Shadowing ](https://www.youtube.com/watch?v=lW_erSjyMeM)
 52. Template Literals (Interpolation, Tagged Templates)
 53. Destructuring Assignment
-54. Modules (`import/export`)
+54. [CommonJS modules(`require/export`), ES6 Modules (`import/export`)](https://www.youtube.com/watch?v=mK54Cn4ceac) and [Import vs Require](https://www.youtube.com/watch?v=6_JNPmjSevo)
 55. Class Syntax (Inheritance, Static Methods)
 56. Generators (`function*`, `yield`)
 57. Iterators and Custom Iterables
