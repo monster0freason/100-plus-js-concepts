@@ -38,7 +38,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 23. Callback Pattern
 24. Arrow Functions (Lexical `this`)
 25. Default Parameters
-26. Rest/[Spread Operators (`...`)](https://www.youtube.com/watch?v=pYI-UuZVtHI), [Rest vs Spread](https://www.youtube.com/watch?v=DoIGxx7P-ps)
+26. [Spread Operators (`...`)](https://www.youtube.com/watch?v=pYI-UuZVtHI), [Rest vs Spread](https://www.youtube.com/watch?v=DoIGxx7P-ps)
 27. Function Currying/Partial Application
 28. Recursion and Tail-Call Optimization
 29. Throttling and Debouncing
@@ -49,7 +49,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 32. [Promises (States: Pending, Fulfilled, Rejected)](https://www.youtube.com/watch?v=ap-6PPAuK1Y)
 33. [Creating a Promise(`resolve()`, `reject()`), Chaining Promises(`.then()`, `.catch()`), Error Handling in Promises](https://www.youtube.com/watch?v=U74BJcr8NeQ)
 34. [Promise APIs (`Promise.all()`, `Promise.race()`, `Promise.allSettled()`, `Promise.any()`)](https://www.youtube.com/watch?v=DlTVt1rZjIo)
-35. `async/await` Syntax
+35. [async/await](https://www.youtube.com/watch?v=6nv3qy3oNkc)
 36. Error Handling in Async Code
 37. Event Emitters/Observables (Pub-Sub Pattern)
 38. [Web Workers](https://www.youtube.com/watch?v=Gcp7triXFjg)
@@ -81,7 +81,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 60. Dynamic Imports (`import()`)
 
 ### **DOM & Browser APIs**
-61. DOM Manipulation (Selectors, `createElement`, etc.)
+61. DOM (Accessing DOM Elements, DOM Tree Navigation, DOM Node Types, DOM Attributes, DOM Element Properties, DOM Traversal, DOM Events, DOM Manipulation)
 62. Event Bubbling/Capturing and Delegation
 63. `Event` Object and Custom Events
 64. `requestAnimationFrame` for Animations
