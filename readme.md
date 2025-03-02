@@ -38,7 +38,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 23. Callback Pattern
 24. Arrow Functions (Lexical `this`)
 25. Default Parameters
-26. Rest/Spread Operators (`...`)
+26. Rest/[Spread Operators (`...`)](https://www.youtube.com/watch?v=pYI-UuZVtHI), [Rest vs Spread](https://www.youtube.com/watch?v=DoIGxx7P-ps)
 27. Function Currying/Partial Application
 28. Recursion and Tail-Call Optimization
 29. Throttling and Debouncing
@@ -57,7 +57,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 40. `AbortController` for Cancelling Async Tasks
 
 ### **Objects and Data Structures**
-41. Object Destructuring/Shorthand Syntax
+41. Object Property Enumeration Order
 42. Property Descriptors (`get`, `set`, `writable`, `enumerable`)
 43. `Proxy` and Reflection API
 44. Symbols and Unique Keys
@@ -71,11 +71,11 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 ### **ES6+ Features**
 51. [`let`, `const`, and Temporal Dead Zone (TDZ)](https://www.youtube.com/watch?v=BNC6slYCj50) and [Block Scope & Shadowing ](https://www.youtube.com/watch?v=lW_erSjyMeM)
 52. Template Literals (Interpolation, Tagged Templates)
-53. Destructuring Assignment
+53. [Destructuring Assignment(Array/Object)](https://www.youtube.com/watch?v=NIq3qLaHCIs)
 54. [CommonJS modules(`require/export`), ES6 Modules (`import/export`)](https://www.youtube.com/watch?v=mK54Cn4ceac) and [Import vs Require](https://www.youtube.com/watch?v=6_JNPmjSevo)
 55. Class Syntax (Inheritance, Static Methods)
-56. Generators (`function*`, `yield`)
-57. Iterators and Custom Iterables
+56. [Generators (`function*`, `yield`)](https://www.youtube.com/watch?v=IJ6EgdiI_wU&t=23s)
+57. [Symbol, Shared Symbols](https://www.youtube.com/watch?v=4J5hnOCj69w), [Iterable Protocol, Iterator Protocol and Custom Iterables](https://www.youtube.com/watch?v=eBhDBy-M7ow)
 58. Optional Chaining (`?.`)
 59. Nullish Coalescing (`??`)
 60. Dynamic Imports (`import()`)
