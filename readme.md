@@ -81,7 +81,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 60. Dynamic Imports ('import()')
 
 ### **DOM & Browser APIs**
-61. [DOM](https://www.youtube.com/watch?v=hMPC6q7HIuQ&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L) (Accessing DOM Elements, DOM Tree Navigation, DOM Node Types, DOM Attributes, DOM Element Properties, DOM Traversal, DOM Events, DOM Manipulation)
+61. [DOM](https://www.youtube.com/watch?v=hMPC6q7HIuQ&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L) and [DOM Node Types](https://www.youtube.com/watch?v=2FMe_JfYa0g&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=3) Accessing DOM Elements, DOM Tree Navigation, DOM Node Types, DOM Attributes, DOM Element Properties, DOM Traversal, DOM Events, DOM Manipulation)
 62. Event Bubbling/Capturing and Delegation
 63. 'Event' Object and Custom Events
 64. 'requestAnimationFrame' for Animations
