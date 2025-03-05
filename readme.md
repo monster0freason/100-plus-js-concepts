@@ -60,7 +60,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 41. 
 42. Property Descriptors ('get', 'set', 'writable', 'enumerable')
 43. 'Proxy' and Reflection API
-44. Symbols and Unique Keys
+44. 
 45. 'Map', 'Set', 'WeakMap', 'WeakSet'
 46. JSON Parsing/Serialization ('JSON.parse()', 'JSON.stringify()')
 47. Immutable Data Patterns
@@ -81,12 +81,12 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 60. Dynamic Imports ('import()')
 
 ### **DOM & Browser APIs**
-61. [DOM](https://www.youtube.com/watch?v=hMPC6q7HIuQ&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L) and [DOM Node Types](https://www.youtube.com/watch?v=2FMe_JfYa0g&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=3) Accessing DOM Elements, DOM Tree Navigation, DOM Node Types, DOM Attributes, DOM Element Properties, DOM Traversal, DOM Events, DOM Manipulation)
+61. [DOM](https://www.youtube.com/watch?v=hMPC6q7HIuQ&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L) and [DOM Node Types](https://www.youtube.com/watch?v=2FMe_JfYa0g&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=3) and [Accessing DOM Elements(Selectors, querySelector API)](https://www.youtube.com/watch?v=M_ISIAedVYA&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=5), DOM Tree Navigation, DOM Attributes, DOM Element Properties, DOM Traversal, DOM Events, DOM Manipulation)
 62. Event Bubbling/Capturing and Delegation
 63. 'Event' Object and Custom Events
 64. 'requestAnimationFrame' for Animations
 65. 'fetch' API and 'Headers', 'Request', 'Response'
-66. Web Storage ('localStorage', 'sessionStorage')
+66. [Web Storage ('localStorage', 'sessionStorage')](https://www.youtube.com/watch?v=MOd5cTJ6kaA) and [Cookies](https://www.youtube.com/watch?v=GihQAC1I39Q)
 67. 'history' API (SPA Routing)
 68. Web Components (Custom Elements, Shadow DOM)
 69. Service Workers and Caching Strategies
@@ -110,8 +110,8 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 83. End-to-End Testing (Cypress, Selenium)
 84. Linting (ESLint) and Prettier
 85. Source Maps for Debugging
-86. Babel and Transpilation
-87. Webpack/Rollup Configuration
+86. [Babel, Webpack](https://www.youtube.com/watch?v=hMPC6q7HIuQ&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L) and [Transpilation, Polyfill](https://www.youtube.com/watch?v=hMPC6q7HIuQ&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L)
+87. [Webpack/Rollup Configuration](https://www.youtube.com/watch?v=IZGNcSuwBZs)(HTML Webpack Plugin, Caching & Hash Setup, Webpack Dev Server, Source Maps, Webpack Bundle Analyzer )
 88. Debugging with Breakpoints
 89. Continuous Integration (CI/CD Pipelines)
 90. Bundle Analyzers
