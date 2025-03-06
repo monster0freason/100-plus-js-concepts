@@ -81,12 +81,12 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 60. Dynamic Imports ('import()')
 
 ### **DOM & Browser APIs**
-61. [DOM](https://www.youtube.com/watch?v=hMPC6q7HIuQ&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L) and [DOM Node Types](https://www.youtube.com/watch?v=2FMe_JfYa0g&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=3) and [Accessing DOM Elements(Selectors, querySelector API)](https://www.youtube.com/watch?v=M_ISIAedVYA&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=5), DOM Tree Navigation, DOM Attributes, DOM Element Properties, DOM Traversal, DOM Events, DOM Manipulation)
+61. [DOM](https://www.youtube.com/watch?v=hMPC6q7HIuQ&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L) and [DOM Node Types](https://www.youtube.com/watch?v=2FMe_JfYa0g&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=3) and [Accessing DOM Elements(Selectors, querySelector API)](https://www.youtube.com/watch?v=M_ISIAedVYA&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=5) and [DOM Tree Navigation](https://www.youtube.com/watch?v=cDc5CzhBiL4&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=7) and [DOM Manipulation](https://www.youtube.com/watch?v=Jx046UJxUek&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=9), DOM Attributes, DOM Element Properties, DOM Traversal, DOM Events, 
 62. Event Bubbling/Capturing and Delegation
 63. 'Event' Object and Custom Events
 64. 'requestAnimationFrame' for Animations
 65. 'fetch' API and 'Headers', 'Request', 'Response'
-66. [Web Storage ('localStorage', 'sessionStorage')](https://www.youtube.com/watch?v=MOd5cTJ6kaA) and [Cookies](https://www.youtube.com/watch?v=GihQAC1I39Q)
+66. [Web Storage ('localStorage', 'sessionStorage')](https://www.youtube.com/watch?v=MOd5cTJ6kaA) and [Cookies](https://www.youtube.com/watch?v=GihQAC1I39Q) and [HTTP state management using](https://www.youtube.com/watch?v=s04Vjlcgwco)
 67. 'history' API (SPA Routing)
 68. Web Components (Custom Elements, Shadow DOM)
 69. Service Workers and Caching Strategies
