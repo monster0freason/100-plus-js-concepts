@@ -22,10 +22,10 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 9. [IIFE (Immediately Invoked Function Expressions)](https://www.youtube.com/watch?v=I5EntfMeIIQ)
 10. [Strict Mode ("use strict")](https://www.youtube.com/watch?v=G9QTBS2x8U4)
 11. [Primitive vs. Reference Types](https://www.youtube.com/watch?v=fD0t_DKREbE&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=13)
-12. Type Coercion and Truthy/Falsy Values
+12. [Type Coercion and Truthy/Falsy Values](https://www.youtube.com/watch?v=wFiVtqe1osM)
 13. [Callbacks, Event Listeners](https://www.youtube.com/watch?v=btj35dh3_U8) and [Event Loop, Browser APIs, Concurrency Model(asynchronous JavaScript), Web APIs, Microtasks(Promises), Macrotasks('setTimeout')](https://www.youtube.com/watch?v=8zKuNo4ay8E)
 14. [JS Engine Architecture, JavaScript Runtime Environment, JIT compilation, V8(Ignition, Turbofan, Orinoco)](https://www.youtube.com/watch?v=2WJL19wDH68) 
-15. Memory Management and Garbage Collection
+15. [Memory Management](https://www.youtube.com/watch?v=OG_AZnPokGw) and [Garbage Collection](https://www.youtube.com/watch?v=WqNqeMjd28I)
 16. Error Handling ('try/catch/finally', 'throw')
 17. 'eval()' and Its Implications
 18. 'typeof' vs 'instanceof'
