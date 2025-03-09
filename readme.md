@@ -26,7 +26,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 13. [Callbacks, Event Listeners](https://www.youtube.com/watch?v=btj35dh3_U8) and [Event Loop, Browser APIs, Concurrency Model(asynchronous JavaScript), Web APIs, Microtasks(Promises), Macrotasks('setTimeout')](https://www.youtube.com/watch?v=8zKuNo4ay8E)
 14. [JS Engine Architecture, JavaScript Runtime Environment, JIT compilation, V8(Ignition, Turbofan, Orinoco)](https://www.youtube.com/watch?v=2WJL19wDH68) 
 15. [Memory Management](https://www.youtube.com/watch?v=OG_AZnPokGw) and [Garbage Collection](https://www.youtube.com/watch?v=WqNqeMjd28I)
-16. Error Handling ('try/catch/finally', 'throw')
+16. [Error Handling ('try/catch/finally', 'throw')](https://www.youtube.com/watch?v=KBxrSz9i1pg)
 17. 'eval()' and Its Implications
 18. 'typeof' vs 'instanceof'
 19. 'Object.create()', 'Object.assign()'
@@ -36,7 +36,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 21. [First-Class Functions and Anonymous Functions](https://www.youtube.com/watch?v=SHINoHxvTso) 
 22. [Higher-Order Functions](https://www.youtube.com/watch?v=SHINoHxvTso)
 23. Callback Pattern
-24. Arrow Functions (Lexical 'this')
+24. [Arrow Functions (Lexical 'this')](https://www.youtube.com/watch?v=h33Srr5J9nY)
 25. Default Parameters
 26. [Spread Operators ('...')](https://www.youtube.com/watch?v=pYI-UuZVtHI), [Rest vs Spread](https://www.youtube.com/watch?v=DoIGxx7P-ps)
 27. Function Currying/Partial Application
@@ -88,7 +88,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 65. 'fetch' API and 'Headers', 'Request', 'Response'
 66. [Web Storage ('localStorage', 'sessionStorage')](https://www.youtube.com/watch?v=MOd5cTJ6kaA) and [Cookies](https://www.youtube.com/watch?v=GihQAC1I39Q) and [HTTP state management using](https://www.youtube.com/watch?v=s04Vjlcgwco)
 67. 'history' API (SPA Routing)
-68. Web Components (Custom Elements, Shadow DOM)
+68. [Web Components (Custom Elements, Shadow DOM, Lifecycle Methods, Extending Existing HTML Elements)](https://www.youtube.com/watch?v=2I7uX8m0Ta0)
 69. Service Workers and Caching Strategies
 70. 'IntersectionObserver' and Lazy Loading
 
