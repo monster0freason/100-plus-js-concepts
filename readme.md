@@ -82,7 +82,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 
 ### **DOM & Browser APIs**
 61. [DOM](https://www.youtube.com/watch?v=hMPC6q7HIuQ&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L) and [DOM Node Types](https://www.youtube.com/watch?v=2FMe_JfYa0g&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=3) and [Accessing DOM Elements(Selectors, querySelector API)](https://www.youtube.com/watch?v=M_ISIAedVYA&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=5) and [DOM Tree Navigation](https://www.youtube.com/watch?v=cDc5CzhBiL4&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=7) and [DOM Manipulation](https://www.youtube.com/watch?v=Jx046UJxUek&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=9), and [DOM Attributes, DOM Element Properties](https://www.youtube.com/watch?v=VnJq-mFInwo&list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L&index=12), DOM Traversal, DOM Events, 
-62. Event Bubbling/Capturing and Delegation
+62. [Event Bubbling/Capturing](https://www.youtube.com/watch?v=aVSf0b1jVKk) and Delegation[Delegation](https://www.youtube.com/watch?v=3KJI1WZGDrg)
 63. 'Event' Object and Custom Events
 64. 'requestAnimationFrame' for Animations
 65. 'fetch' API and 'Headers', 'Request', 'Response'
