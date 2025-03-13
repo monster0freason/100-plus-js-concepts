@@ -117,7 +117,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 90. Bundle Analyzers
 
 ### **Security**
-91. Cross-Site Scripting (XSS) Prevention
+91. Same Origin pPolicy, Cross-Site Scripting (XSS) Prevention
 92. Content Security Policy (CSP)
 93. CORS (Cross-Origin Resource Sharing)
 94. Sanitizing User Input (DOMPurify)
@@ -127,6 +127,67 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 98. Subresource Integrity (SRI)
 99. Avoiding 'eval()' and 'innerHTML' Risks
 100. Secure Coding Practices (Avoiding Prototype Pollution)
+
+
+## JS to TypeScript
+
+### Introduction & Setup
+101. What is TypeScript?  
+102. Setting Up TypeScript  
+
+---
+
+### Basic Concepts
+103. Type Annotations & Inference  
+104. Primitive Types  
+105. Arrays & Tuples  
+106. Enums  
+107. Object Types & Interfaces  
+
+---
+
+### Intermediate Concepts
+108. Union & Intersection Types  
+109. Type Aliases vs. Interfaces  
+110. Functions: Parameter Types, Return Types, Optional Parameters, Overloads  
+111. Generics  
+112. Utility Types  
+
+---
+
+### Advanced Concepts
+113. Type Guards & Narrowing  
+114. Mapped & Conditional Types  
+115. Decorators  
+116. Declaration Merging, Namespaces vs. Modules  
+
+---
+
+### Integration & Tooling
+117. Type Declarations (`.d.ts`)  
+118. Configuring `tsconfig.json`  
+119. TypeScript with React  
+120. Advanced Compiler Options  
+
+---
+
+### Best Practices
+121. Avoid `any`, Use `unknown`  
+122. Type Assertions, Strict Mode  
+123. Branded Types, Performance Considerations  
+
+---
+
+### Real-World Patterns
+124. Dependency Injection with Types, Generic API Wrappers  
+125. Advanced Error Handling, TypeScript with Node.js  
+
+---
+
+
+
+
+
 
 ## 🔥 How to Use This Guide
 - Read and understand the concepts one by one.
