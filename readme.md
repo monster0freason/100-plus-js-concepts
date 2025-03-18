@@ -27,8 +27,8 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 14. [JS Engine Architecture, JavaScript Runtime Environment, JIT compilation, V8(Ignition, Turbofan, Orinoco)](https://www.youtube.com/watch?v=2WJL19wDH68) 
 15. [Memory Management](https://www.youtube.com/watch?v=OG_AZnPokGw) and [Garbage Collection](https://www.youtube.com/watch?v=WqNqeMjd28I)
 16. [Error Handling ('try/catch/finally', 'throw')](https://www.youtube.com/watch?v=KBxrSz9i1pg)
-17. 'eval()' and Its Implications
-18. 'typeof' vs 'instanceof'
+17. [eval()](https://www.youtube.com/watch?v=uyEhYbjIQzw) and [Implications of eval](https://www.youtube.com/watch?v=KH4u-cOANjo)
+18. [typeof vs instanceof](https://www.youtube.com/watch?v=Ef6hYqxf8pk)
 19. 'Object.create()', 'Object.assign()'
 20. [Array-Like Objects (map, filter, reduce)](https://www.youtube.com/watch?v=zdp0zrpKzIE)
 
