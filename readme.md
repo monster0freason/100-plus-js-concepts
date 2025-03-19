@@ -29,7 +29,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 16. [Error Handling ('try/catch/finally', 'throw')](https://www.youtube.com/watch?v=KBxrSz9i1pg)
 17. [eval()](https://www.youtube.com/watch?v=uyEhYbjIQzw) and [Implications of eval](https://www.youtube.com/watch?v=KH4u-cOANjo)
 18. [typeof vs instanceof](https://www.youtube.com/watch?v=Ef6hYqxf8pk)
-19. 'Object.create()', 'Object.assign()'
+19. [Object.create()](https://www.youtube.com/watch?v=CDFN1VatiJA) and [Object.assign()](https://www.youtube.com/watch?v=JmGJUzNsGFs)
 20. [Array-Like Objects (map, filter, reduce)](https://www.youtube.com/watch?v=zdp0zrpKzIE)
 
 ### **Functions**
