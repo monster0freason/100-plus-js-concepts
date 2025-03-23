@@ -35,9 +35,9 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 ### **Functions**
 21. [First-Class Functions and Anonymous Functions](https://www.youtube.com/watch?v=SHINoHxvTso) 
 22. [Higher-Order Functions](https://www.youtube.com/watch?v=SHINoHxvTso)
-23. Callback Pattern
+23. [Callback Pattern](https://www.youtube.com/watch?v=z03tYranyWs)
 24. [Arrow Functions (Lexical 'this')](https://www.youtube.com/watch?v=h33Srr5J9nY)
-25. Default Parameters
+25. [Default Parameters](https://www.youtube.com/watch?v=5-p7--fbWrA)
 26. [Spread Operators ('...')](https://www.youtube.com/watch?v=pYI-UuZVtHI), [Rest vs Spread](https://www.youtube.com/watch?v=DoIGxx7P-ps)
 27. Function Currying/Partial Application
 28. Recursion and Tail-Call Optimization
