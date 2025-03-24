@@ -41,7 +41,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 26. [Spread Operators ('...')](https://www.youtube.com/watch?v=pYI-UuZVtHI), [Rest vs Spread](https://www.youtube.com/watch?v=DoIGxx7P-ps)
 27. Function Currying/Partial Application
 28. Recursion and Tail-Call Optimization
-29. Throttling and Debouncing
+29. [Throttling and Debouncing](https://www.youtube.com/watch?v=cjIswDCKgu0&t=706s)
 30. Memoization
 
 ### **Asynchronous Programming**
