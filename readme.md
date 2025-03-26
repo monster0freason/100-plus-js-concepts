@@ -39,7 +39,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 24. [Arrow Functions (Lexical 'this')](https://www.youtube.com/watch?v=h33Srr5J9nY)
 25. [Default Parameters](https://www.youtube.com/watch?v=5-p7--fbWrA)
 26. [Spread Operators ('...')](https://www.youtube.com/watch?v=pYI-UuZVtHI), [Rest vs Spread](https://www.youtube.com/watch?v=DoIGxx7P-ps)
-27. [Function Currying/Partial Application](https://www.youtube.com/watch?v=vQcCNpuaJO8)
+27. [Function Currying/Partial Application](https://www.youtube.com/watch?v=k5TC9i5HonI&t=415s)
 28. Recursion and Tail-Call Optimization
 29. [Throttling and Debouncing](https://www.youtube.com/watch?v=cjIswDCKgu0&t=706s)
 30. Memoization
