@@ -123,7 +123,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 94. Sanitizing User Input (DOMPurify)
 95. HTTPS and Secure Cookies
 96. JWT (JSON Web Tokens) and Authentication
-97. [CSRF (Cross-Site Request Forgery) Protection](https://www.youtube.com/watch?v=eWEgUcHPle0) and CSRF (Cross-Site Request Forgery) Protection
+97. [CSRF (Cross-Site Request Forgery) Protection](https://www.youtube.com/watch?v=eWEgUcHPle0) and [CSRF token](https://www.youtube.com/watch?v=80S8h5hEwTY) 
 98. Subresource Integrity (SRI)
 99. Avoiding 'eval()' and 'innerHTML' Risks
 100. Secure Coding Practices (Avoiding Prototype Pollution)
