@@ -53,8 +53,8 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 36. 
 37. Event Emitters/Observables (Pub-Sub Pattern)
 38. [Web Workers](https://www.youtube.com/watch?v=Gcp7triXFjg)
-39. ['setTimeout'](https://www.youtube.com/watch?v=eBTBG4nda2A) , 'setInterval', and 'requestAnimationFrame'
-40. 'AbortController' for Cancelling Async Tasks
+39. [setTimeout](https://www.youtube.com/watch?v=eBTBG4nda2A) , 'setInterval', and 'requestAnimationFrame'
+40. [AbortController for Cancelling Async Tasks](https://www.youtube.com/watch?v=pOQguIkDp5w)
 
 ### **Objects and Data Structures**
 41. 
