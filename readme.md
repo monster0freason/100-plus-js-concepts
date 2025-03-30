@@ -118,7 +118,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 
 ### **Security**
 91. [Same Origin pPolicy, Cross-Site Scripting (XSS) Prevention](https://www.youtube.com/watch?v=EoaDgUgS6QA)
-92. Content Security Policy (CSP)
+92. [Content Security Policy (CSP)](https://www.youtube.com/watch?v=J90t0h0AP1U)
 93. [CORS (Cross-Origin Resource Sharing](https://www.youtube.com/watch?v=tcLW5d0KAYE) and [CORS errors](https://www.youtube.com/watch?v=PNtFSVU-YTI)
 94. Sanitizing User Input (DOMPurify)
 95. HTTPS and Secure Cookies
