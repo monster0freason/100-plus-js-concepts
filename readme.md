@@ -122,7 +122,7 @@ Welcome to the **JavaScript Mastery Guide**! This repository contains a curated 
 93. [CORS (Cross-Origin Resource Sharing](https://www.youtube.com/watch?v=tcLW5d0KAYE) and [CORS errors](https://www.youtube.com/watch?v=PNtFSVU-YTI)
 94. Sanitizing User Input (DOMPurify)
 95. HTTPS and Secure Cookies
-96. JWT (JSON Web Tokens) and Authentication
+96. [JWT (JSON Web Tokens) and Authentication](https://www.youtube.com/watch?v=7Q17ubqLfaM)
 97. [CSRF (Cross-Site Request Forgery) Protection](https://www.youtube.com/watch?v=eWEgUcHPle0) and [CSRF token](https://www.youtube.com/watch?v=80S8h5hEwTY) 
 98. Subresource Integrity (SRI)
 99. Avoiding 'eval()' and 'innerHTML' Risks
